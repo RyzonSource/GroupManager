@@ -2,8 +2,6 @@
 # GroupModerator
 Vi aiuterà con la moderazione dei gruppi , con molte opzioni che man mano verranno aggiornate.
 
-## Iniziare
-
 ### Requisiti
 
 Avere un account altervista (Solo Hosting)
